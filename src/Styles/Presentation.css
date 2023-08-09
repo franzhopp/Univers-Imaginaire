@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.title-home {
+    height: 130px;
+    padding-top: 130px;
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia;
+    letter-spacing: 3px;
+}
+
+.desc-home {
+    font-family: Georgia;
+}
+
+.sub-home {
+    width: 450px;
+    height: 370px;
+    line-height: 50px;
+    text-align: justify;
+    font-family: Georgia, sans-serif;
+}
+
+.desc-home {
+    letter-spacing: 1px;
+}
+
+.line {
+    border-bottom: 1px solid #EEEEEE;
+}
+
+.one-text {
+    font-weight: bold;
+}
+
+.links-prod {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+    .sub-home {
+        width: 80%;
+    }
+}

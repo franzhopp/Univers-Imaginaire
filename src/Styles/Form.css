@@ -1,0 +1,48 @@
+.title-form {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 10px;
+    letter-spacing: 3px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #EEEEEE;
+    font-family: Georgia;
+    font-size: 10px;
+}
+
+textarea {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #EEEEEE;
+    font-family: Georgia;
+    font-size: 10px;
+}
+
+.button-design {
+    width: 150px;
+    padding: 7px;
+    border-radius: 2px;
+    background-color: #999999;
+    color: white;
+    border: none;
+    font-family: Georgia;
+    cursor: pointer;
+}
+
+.button-design:hover {
+    color: #EEEEEE;
+}
