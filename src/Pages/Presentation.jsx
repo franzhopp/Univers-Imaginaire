@@ -8,9 +8,6 @@ const Presentation = () => {
       <div className="container">
         <div className="sub-home">
           <p className="title-home">Bienvenue dans l'ode de mon imagination,</p>
-          <div className="sub-image">
-            {/* <div className="image-presentation"></div> */}
-          </div>
           <p className="active title-link">8 AOÛT 2023</p>
           <p className="desc-home">
             Je te laisse découvrir mes secrets où règne la volonté de poursuivre
