@@ -34,7 +34,7 @@ const Form = () => {
                                     name="name"
                                     value={formData.name}
                                     onChange={handleInputChange}
-                                    placeholder="Victor"
+                                    placeholder="Ton prénom"
                                 />
 
 

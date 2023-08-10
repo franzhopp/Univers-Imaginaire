@@ -6,15 +6,24 @@
 
 .title-home {
     height: 130px;
-    padding-top: 130px;
+    padding-top: 60px;
     text-align: center;
     font-size: 10px;
     font-family: Georgia;
     letter-spacing: 3px;
+    font-weight: bold;
 }
 
 .desc-home {
     font-family: Georgia;
+}
+
+.image-presentation {
+    background-image: url('../Pages/logo-_1_.jpg');
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
 }
 
 .sub-home {

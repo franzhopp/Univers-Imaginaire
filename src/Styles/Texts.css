@@ -1,0 +1,52 @@
+.container-texts {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.title-texts {
+    font-weight: bold;
+    font-family: Georgia;
+}
+
+.date-text {
+    padding-bottom: 10px;
+}
+
+.desc-texts {
+    font-family: Georgia;
+    line-height: 24px;
+}
+
+.sub-image {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../Rewrite/icons.png');
+    padding-bottom: 20px;
+}
+
+.sub-texts {
+    width: 450px;
+    height: auto;
+    text-align: justify;
+    font-family: Georgia, sans-serif;
+    border-radius: 10px;
+    border: 1px solid #EEEEEE;
+    padding: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .sub-home {
+        width: 80%;
+    }
+
+    .sub-image {
+        padding-top: 204px;
+    }
+}

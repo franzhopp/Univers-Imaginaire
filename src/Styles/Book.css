@@ -1,0 +1,93 @@
+.container-book {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.sub-book {
+    width: 450px;
+    height: auto;
+    padding: 15px;
+    line-height: 50px;
+    text-align: justify;
+    font-family: Georgia, sans-serif;
+    border-radius: 10px;
+    border: 1px solid #EEEEEE;
+}
+
+.sub-image-book {
+    display: flex;
+    justify-content: center;
+}
+
+.image-book {
+    background-image: url('../Book/book_projects.png');
+    background-size: cover;
+    height: 450px;
+    width: 450px;
+    background-repeat: no-repeat;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.animate-fade {
+    animation: fade-in 1s ease-out;
+}
+
+@keyframes loading {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 10%;
+    }
+}
+
+.loader {
+    width: 100%;
+    height: 10px;
+    background-color: #f0f0f0;
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.loader::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 100%;
+    background-color: #999999;
+    position: absolute;
+    animation: loading 5s forwards;
+}
+
+@media screen and (max-width: 480px) {
+
+    .container-texts {
+        padding-top: 40px;
+    }
+
+    .image-book {
+        padding-top: 0px;
+        height: 330px;
+    }
+
+    .sub-book {
+        width: 80%;
+    }
+
+    .sub-image-book {
+        padding-top: 100px;
+    }
+}
