@@ -43,6 +43,11 @@
 }
 
 @media screen and (max-width: 480px) {
+
+    .sub-texts {
+        padding-top: 200px;
+    }
+
     .sub-home {
         width: 80%;
     }
