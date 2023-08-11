@@ -3,11 +3,28 @@
     animation: fade-in-animation 1s ease-in forwards;
 }
 
+.colors {
+    color: black;
+}
+
+.footer {
+    text-align: center;
+    font-size: 13px;
+    font-family: Georgia;
+}
+
 @keyframes fade-in-animation {
     0% {
         opacity: 0;
     }
     100% {
         opacity: 1;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .sub-footer {
+        width: 30%;
     }
 }
