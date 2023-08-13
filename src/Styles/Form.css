@@ -11,16 +11,25 @@
     flex-direction: column;
 }
 
+/* message d'envoi */
 .success-message {
     text-align: center;
     font-size: 13px;
     font-family: Georgia;
 }
 
-.button {
+/* erreurs d'envoi de message */
+.error-message {
+    color: red;
+    font-family: Georgia;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.button-center {
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 input {
@@ -54,3 +63,4 @@ textarea {
 .button-design:hover {
     color: #EEEEEE;
 }
+

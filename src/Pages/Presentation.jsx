@@ -21,14 +21,14 @@ const Presentation = () => {
           </p>
           <div className="links-prod">
             <Link
-              to="https://louisa-ohs.netlify.app"
+              to="https://ldwso.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
               className="active title-link"
             >
               Portfolio.
             </Link>
-            <p className="active title-link">Devohs (en production).</p>
+            <p className="active title-link">LDWSO (en production).</p>
           </div>
           <div className="line"></div>
           <Form />

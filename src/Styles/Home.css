@@ -8,8 +8,9 @@
 }
 
 .footer {
+    padding-top: 50px;
     text-align: center;
-    font-size: 13px;
+    font-size: 8px;
     font-family: Georgia;
 }
 
