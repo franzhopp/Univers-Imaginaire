@@ -13,7 +13,7 @@ const Texts = () => {
               <div className="image-book"></div>
             </div>
             <div className="title-texts">A hero but not heroes</div>
-            <p className="desc-texts">— Chapitre n°1 | <a href="https://univers-imaginaire.netlify.app/chapter-one">Issue Secrète</a></p>
+            <p className="desc-texts">— Chapitre n°1 | <a href="/chapter-one">Issue Secrète</a></p>
             <p className="active title-link date-text">8 AOÛT 2023</p>
             <p className="desc-texts">
               Histoire en écriture : 60%.
