@@ -1,6 +1,6 @@
 import '../Styles/Navbar.css';
 import { NavLink } from 'react-router-dom';
-import {useEffect, useState} from "react";
+import { useEffect, useState } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHouse } from '@fortawesome/free-solid-svg-icons';
 import { faPenNib } from '@fortawesome/free-solid-svg-icons';

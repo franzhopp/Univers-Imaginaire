@@ -123,7 +123,6 @@ Adel prit ses vêtements pour s’habiller, mit son sac et quitta sa chambre san
 
 Cette porte… est-ce pour la jeune fille une issue secrète qui l’attendait ?<br/><br/> 
 
-À suivre...<br/><br/>
               </p>
               {/* <div className="line"></div> */}
           </div>
