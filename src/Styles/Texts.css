@@ -17,6 +17,14 @@
 .desc-texts {
     font-family: Georgia;
     line-height: 20px;
+    padding-bottom: 20px;
+}
+
+.desc-texts-others {
+    font-size: 20px;
+    font-family: Georgia;
+    line-height: 24px;
+    padding-bottom: 20px;
 }
 
 .sub-image {

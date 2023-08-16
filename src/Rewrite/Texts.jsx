@@ -12,6 +12,11 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">Toi</div>
+              <p className="active title-link date-text">16 AOÛT 2023</p>
+              <p className="desc-texts-others">
+              « Il n’y croyait pas en l’amour en ce monde… il croyait en l’amour des cieux. Son seul combat est de se battre, même s’il craignait la mort. Il était un être en marge, un rêveur qui croyait en la force cosmique plutôt qu’en la force terrestre, ses yeux brillaient d’une lueur où il ne percevait que l’univers, au-delà de la réalité visible. »
+              </p>
               <div className="title-texts">Premier éveil, dernier éveil</div>
               <p className="active title-link date-text">8 AOÛT 2023</p>
               <p className="desc-texts">
