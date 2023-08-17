@@ -2,12 +2,14 @@ import React from "react";
 import "../Styles/Presentation.css";
 import { Link } from "react-router-dom";
 import Form from "./Form";
+import Theme from "../hook/useTheme.jsx";
 const Presentation = () => {
   return (
     <>
       <div className="container">
         <div className="sub-home">
           <p className="title-home">Bienvenue dans l'ode de mon imagination,</p>
+          <Theme/>
           <p className="active title-link">8 AOÛT 2023</p>
           <p className="desc-home">
             Je te laisse découvrir mes secrets où règne la volonté de poursuivre

@@ -39,7 +39,7 @@ const Texts = () => {
               Avais-tu déjà versé des larmes en raison de ton sentiment de vide
               et de ta vie remplie de mensonge à soi ?<br />
               <p className="underline">
-                Je pense qu’on est dans le même pétrin.
+                On est dans le même pétrin.
               </p>
             </p>
             <div className="title-texts">Toi, ce que tu valais</div>

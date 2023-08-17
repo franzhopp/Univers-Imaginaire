@@ -1,0 +1,22 @@
+.container-button {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-button-theme {
+    cursor: pointer;
+    border: 1px solid white;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.dark-theme {
+    color: white;
+    background-color: rgb(30, 32, 41);
+}
+
+.light-theme {
+    color: black;
+    background-color: white;
+}

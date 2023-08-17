@@ -38,12 +38,14 @@ input {
     border-bottom: 1px solid #EEEEEE;
     font-family: Georgia;
     font-size: 10px;
+    border-radius: 2px;
     padding-bottom: 10px;
 }
 
 textarea {
     outline: none;
     border: none;
+    border-radius: 2px;
     border-bottom: 1px solid #EEEEEE;
     font-family: Georgia;
     font-size: 10px;

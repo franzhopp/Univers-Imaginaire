@@ -136,7 +136,6 @@ const Form = () => {
         {`
        .loader {
         border: 4px solid rgba(0, 0, 0, 0.1);
-        border-top: 4px solid #999999;
         border-radius: 50%;
         width: 20px;
         height: 20px;
@@ -149,14 +148,9 @@ const Form = () => {
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: ${isLoading ? "transparent" : "white"};
         min-height: 40px; 
       }
       
-      .button-design {
-        background-color: ${isLoading ? "transparent" : "#999999"};
-      }
-    
           @keyframes spin {
             0% {
               transform: rotate(0deg);
