@@ -15,14 +15,14 @@ const AudioPlayer = ({ url }) => {
     } else {
       audio.pause();
     }
-  }, [playing]);
+  });
 
   React.useEffect(() => {
     audio.addEventListener("ended", () => setPlaying(false));
     return () => {
       audio.removeEventListener("ended", () => setPlaying(false));
     };
-  }, []);
+  });
 
   return (
     <Button
