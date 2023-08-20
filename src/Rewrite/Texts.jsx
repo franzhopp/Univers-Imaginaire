@@ -12,6 +12,12 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">Longs souvenirs</div>
+            <p className="active title-link date-text">18 AOÛT 2023</p>
+            <p className="desc-texts-others">
+              Ne jamais s’engager à nouveau dans une impasse que l’on a déjà
+              dépassée.
+            </p>
             <div className="title-texts">Brises inopinées</div>
             <p className="active title-link date-text">17 AOÛT 2023</p>
             <p className="desc-texts">
@@ -38,9 +44,7 @@ const Texts = () => {
               se souvenaient pas de ceux qui ne l’avaient jamais connue ?<br />
               Avais-tu déjà versé des larmes en raison de ton sentiment de vide
               et de ta vie remplie de mensonge à soi ?<br />
-              <p className="underline">
-                On est dans le même pétrin.
-              </p>
+              <p className="underline">On est dans le même pétrin.</p>
             </p>
             <div className="title-texts">Toi, ce que tu valais</div>
             <p className="active title-link date-text">16 AOÛT 2023</p>
