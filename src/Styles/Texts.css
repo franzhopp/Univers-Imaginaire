@@ -55,6 +55,10 @@
     padding: 20px;
 }
 
+.ps {
+    font-size: 10px;
+}
+
 @media screen and (max-width: 480px) {
 
     .sub-texts {

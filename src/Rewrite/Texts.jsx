@@ -12,9 +12,32 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">Vrai amour</div>
+            <p className="active title-link date-text">21 AOÛT 2023</p>
+            <p className="desc-texts">
+              Une personne qui aime sincèrement son frère, n’éprouvera jamais la
+              crainte du vide.{" "}
+              <span className="ps">
+                (Cette sentence dont j'ai écrite souligne, du fait que peu
+                importe les épreuves les plus difficiles de la vie, un vrai
+                amour c'est un prochain qui comprend et aide, la peine de son
+                frère (ou de son malheur), ne l'abondonnera jamais).
+              </span>
+            </p>
+            <div className="title-texts">Douleurs inavouées</div>
+            <p className="active title-link date-text">20 AOÛT 2023</p>
+            <p className="desc-texts">
+              De la douleur que j’ai écorchée, les murmures qui se sont glissés
+              dans la symphonie de tes pleurs, sont les miens.
+            </p>
+            <div className="title-texts">Âmes célestes</div>
+            <p className="active title-link date-text">19 AOÛT 2023</p>
+            <p className="desc-texts">
+              Dans tes songes les plus épris, se trouve le cosmos dans tes yeux.
+            </p>
             <div className="title-texts">Longs souvenirs</div>
             <p className="active title-link date-text">18 AOÛT 2023</p>
-            <p className="desc-texts-others">
+            <p className="desc-texts">
               Ne jamais s’engager à nouveau dans une impasse que l’on a déjà
               dépassée.
             </p>
@@ -94,7 +117,6 @@ const Texts = () => {
               serait-elle peut-être d’une autre destinée. <br />
               <br /> Je t’embrasse très fort, <br /> Louisa.
             </p>
-            {/* <div className="line"></div> */}
           </div>
         </div>
       </div>
