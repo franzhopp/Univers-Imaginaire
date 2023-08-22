@@ -12,6 +12,30 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">Texte d'Handi</div>
+            <p className="active title-link date-text">Not found date</p>
+            <p className="desc-texts-others underline">
+              « C’est plus facile de vouloir rien connaître de c’qui nous sort
+              de l’inavouable. Que vivre une vie de fake où personne ne veut
+              accepter l’inacceptable. Un vrai génie ou un vrai guerrier assume
+              qu’il est plus difficile pour lui-même de chercher l’éveil
+              spirituel. »
+            </p>
+            <div className="title-texts">Affreux manquements</div>
+            <p className="active title-link date-text">22 AOÛT 2023</p>
+            <p className="desc-texts-others">
+              Comme dans chaque nuit où je me retrouve coincée entre ces mots
+              qui résonnent dans le creux de mon cœur, comme dans chaque
+              sentence que l’on redoute d’admettre, continue à s’accrocher dans
+              la pénombre des sentiments distants. Il me manque, je crois même
+              que cela n’a plus de sens, puisque je plie mon vide dans ce
+              tourbillon d’émotions qui ne veulent qu’errer dans tous les sens.
+              Comme dans chaque départ, on ne sait pas sur quelle fin on va,
+              comme dans chaque fin on ne voit aucun départ. Le silence porte
+              ses fruits dès lors qu’il décide de se dissiper, dans l’écho de la
+              nostalgie amoureuse, des brides inconnues, on ne ressent plus
+              aucun rempart.
+            </p>
             <div className="title-texts">Vrai amour</div>
             <p className="active title-link date-text">21 AOÛT 2023</p>
             <p className="desc-texts">
