@@ -29,12 +29,12 @@ const Texts = () => {
               sentence que l’on redoute d’admettre, continue à s’accrocher dans
               la pénombre des sentiments distants. Il me manque, je crois même
               que cela n’a plus de sens, puisque je plie mon vide dans ce
-              tourbillon d’émotions qui ne veulent qu’errer dans tous les sens.
+              tourbillon d’émotions qui ne veulent qu’errer en tous sens.
               Comme dans chaque départ, on ne sait pas sur quelle fin on va,
               comme dans chaque fin on ne voit aucun départ. Le silence porte
-              ses fruits dès lors qu’il décide de se dissiper, dans l’écho de la
-              nostalgie amoureuse, des brides inconnues, on ne ressent plus
-              aucun rempart.
+              ses fruits dès lors qu’il décide de se dissiper, dans l’écho d’une
+              nostalgie amoureuse, d’un fragment inconnu, on ne ressent plus
+              aucune étincelle.
             </p>
             <div className="title-texts">Vrai amour</div>
             <p className="active title-link date-text">21 AOÛT 2023</p>
