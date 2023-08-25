@@ -13,7 +13,7 @@
 
 .dark-theme {
     color: white;
-    background-color: rgb(30, 32, 41);
+    background-image: repeating-linear-gradient(113deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(64deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(330deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), linear-gradient(90deg, rgb(247, 243, 62), rgb(214, 0, 1));
 }
 
 .light-theme {
