@@ -14,7 +14,7 @@ const Texts = () => {
             </div>
             <div className="title-texts">Ça ne sert à rien de faire genre</div>
             <p className="active title-link date-text">1 SEP 2023</p>
-            <p className="desc-texts underline">
+            <p className="desc-texts">
               Dans ces ruelles où j’entendais ton nom, de la douceur que j’avais
               choisi d’oublier, m’avait imprégné. Dans ces retours où tu n’étais
               plus là, s’est enfuit de mes larmes que je ne rêverais plus. Des
