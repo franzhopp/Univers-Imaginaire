@@ -12,9 +12,18 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">Ça ne sert à rien de faire genre</div>
+            <p className="active title-link date-text">1 SEP 2023</p>
+            <p className="desc-texts underline">
+              Dans ces ruelles où j’entendais ton nom, de la douceur que j’avais
+              choisi d’oublier, m’avait imprégné. Dans ces retours où tu n’étais
+              plus là, s’est enfuit de mes larmes que je ne rêverais plus. Des
+              belles amitiés perdues finissent par ne plus se retrouver, entre
+              ces ruelles que l’on pensait aimer.
+            </p>
             <div className="title-texts">Texte d'Handi</div>
             <p className="active title-link date-text">Not found date</p>
-            <p className="desc-texts-others underline">
+            <p className="desc-texts underline">
               « C’est plus facile de vouloir rien connaître de c’qui nous sort
               de l’inavouable. Que vivre une vie de fake où personne ne veut
               accepter l’inacceptable. Un vrai génie ou un vrai guerrier assume
@@ -23,7 +32,7 @@ const Texts = () => {
             </p>
             <div className="title-texts">Affreux manquements</div>
             <p className="active title-link date-text">22 AOÛT 2023</p>
-            <p className="desc-texts-others">
+            <p className="desc-texts">
               Comme dans chaque nuit où je me retrouve coincée entre ces mots
               qui résonnent dans le creux de mon cœur, comme dans chaque
               sentence que l’on redoute d’admettre, continue à s’accrocher dans
