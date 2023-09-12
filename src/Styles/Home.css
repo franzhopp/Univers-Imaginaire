@@ -1,7 +1,12 @@
+html,
+body {
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
 body {
     cursor: url(http://24.media.tumblr.com/tumblr_mdig6jktic1riysloo1_100.png), progress !important;
 }
-
 
 .fade-in {
     opacity: 0;
