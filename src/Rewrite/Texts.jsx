@@ -12,6 +12,19 @@ const Texts = () => {
             <div className="sub-image">
               <div className="image"></div>
             </div>
+            <div className="title-texts">C’est fini maintenant</div>
+            <p className="active title-link date-text">12 SEP 2023</p>
+            <p className="desc-texts">
+              J’aurai préféré laisser s’écouler ce qui me semblait illusoire
+              lorsque je t’avais connu, j’aurai préféré suivre la route sur
+              laquelle je m’appuyais, tout allait bien, tout allait bien lorsque
+              j’avais croisé mon chemin dans le tien. Après ce chemin. Plus rien
+              n’allait. Il était étrange qu’un humain pouvait laisser une marque
+              si profonde sur un visage d’un autre. À croire que tout ce qui
+              restait n’était qu’en vue de ses yeux. Pourtant j’étais convaincue
+              qu’il fallait que je laissais cette peine me hantait. Le cosmos
+              avait choisi ce qui allait être fait.
+            </p>
             <div className="title-texts">Ça ne sert à rien de faire genre</div>
             <p className="active title-link date-text">1 SEP 2023</p>
             <p className="desc-texts">
