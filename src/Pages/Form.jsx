@@ -3,8 +3,6 @@ import emailjs from "emailjs-com";
 import "../Styles/Form.css";
 import Footer from "./Footer";
 
-// import Footer from "./Footer";
-
 const Form = () => {
   // gestion du status d'envoi
   const [status, setStatus] = useState("");

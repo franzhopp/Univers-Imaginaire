@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Form from "./Form";
 import Theme from "../hook/useTheme.jsx";
 
-const Presentation = () => {
+const   Presentation = () => {
   return (
     <>
       <div className="container">
@@ -24,14 +24,14 @@ const Presentation = () => {
           </p>
           <div className="links-prod">
             <Link
-              to="https://ldwso.netlify.app"
+              to="https://navistudio.io/"
               target="_blank"
               rel="noopener noreferrer"
               className="active title-link"
             >
-              Portfolio.
+              navi studio.
             </Link>
-            <p className="active title-link">LDWSO (en production).</p>
+            <p className="active title-link">OSHION (en production).</p>
           </div>
           <div className="line"></div>
           <Form />

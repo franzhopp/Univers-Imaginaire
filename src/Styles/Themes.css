@@ -13,7 +13,8 @@
 
 .dark-theme {
     color: white;
-    background-image: repeating-linear-gradient(113deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(64deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(330deg, rgb(22, 22, 34) 0px, rgb(22, 22, 34) 23px, transparent 23px, transparent 25px), linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 255, 255));
+
+    background-image: repeating-linear-gradient(10deg, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(64deg, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 23px, transparent 23px, transparent 25px), repeating-linear-gradient(330deg, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 23px, transparent 23px, transparent 25px), linear-gradient(1deg, rgb(255, 255, 255), rgb(255, 255, 255));
 }
 
 .light-theme {
