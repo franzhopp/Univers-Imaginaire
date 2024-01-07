@@ -28,7 +28,7 @@ const Navbar = () => {
       <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
         <div className="sub-items">
           <div className="sub-titles">
-            <div className="title">U.I —,</div>
+            <div className="title">A.L —,</div>
             <div className="author">
               par <p className="colors-others">Ohsion</p>.
             </div>

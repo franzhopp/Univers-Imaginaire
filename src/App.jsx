@@ -20,9 +20,9 @@ const App = () => {
             <Router>
                 <Routes>
                     <Route path="/" element={<Home />} />
-                    <Route path="/my-texts" element={<Texts />} />
-                    <Route path="/coming-soon" element={<Book />} />
-                    <Route path="/chapter-one" element={<Chapter />} />
+                    <Route path="/mytexts" element={<Texts />} />
+                    <Route path="/comingsoon" element={<Book />} />
+                    <Route path="/chapterone" element={<Chapter />} />
                 </Routes>
             </Router>
         </ThemeProvider>
