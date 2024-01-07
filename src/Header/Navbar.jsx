@@ -38,10 +38,10 @@ const Navbar = () => {
             <NavLink to="/" className="active title-link">
               <FontAwesomeIcon icon={faHouse} className="icon" /> Accueil
             </NavLink>
-            <NavLink to="/my-texts" className="active title-link">
+            <NavLink to="/mytexts" className="active title-link">
               <FontAwesomeIcon icon={faPenNib} className="icon" /> Mes écrits
             </NavLink>
-            <NavLink to="/coming-soon" className="active title-link">
+            <NavLink to="/comingsoon" className="active title-link">
               <FontAwesomeIcon icon={faBook} className="icon" /> Mon prochain
               livre
             </NavLink>
