@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 import Form from "./Form";
 import Theme from "../hook/useTheme.jsx";
 
-const   Presentation = () => {
+const Presentation = () => {
   return (
     <>
       <div className="container">
         <div className="sub-home">
           <p className="title-home">Bienvenue dans l'ode de mon imagination,</p>
-          <Theme/>
+          <Theme />
           <p className="active title-link">8 AOÛT 2023</p>
           <p className="desc-home">
             Je te laisse découvrir mes secrets où règne la volonté de poursuivre
@@ -31,7 +31,7 @@ const   Presentation = () => {
             >
               navi studio.
             </Link>
-            <p className="active title-link">OSHION (en production).</p>
+            <p className="active title-link">ASTRES LUNAIRES (EN PROD).</p>
           </div>
           <div className="line"></div>
           <Form />
