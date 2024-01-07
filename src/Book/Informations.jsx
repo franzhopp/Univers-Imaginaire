@@ -16,7 +16,7 @@ const Texts = () => {
             <div className="title-texts">A hero but not heroes</div>
             <p className="desc-texts">
               — Chapitre n°1 |{" "}
-              <NavLink to="/chapter-one">
+              <NavLink to="/chapterone">
                 Issue Secrète
               </NavLink>
             </p>
